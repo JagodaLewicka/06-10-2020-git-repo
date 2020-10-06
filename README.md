@@ -1,2 +1,5 @@
 - 'git init': create git repository in current folder
-- adding new change
+	- you only do this one per repository
+- 'git status': tells you what is going on in your repository
+- 'git add <files>': puts files into the staging area (index)
+- 'git commit': commit message for files in staging area
